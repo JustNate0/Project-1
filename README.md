@@ -3,12 +3,12 @@ These are the scripts that I had created for my first project.
 The files in this repository were used to configure the network depicted below.
 This document contains the following details:
 
-Description of the Topology
-Access Policies
-ELK Configuration
-Beats in Use
-Machines Being Monitored
-How to Use the Ansible Build
+    Description of the Topology
+    Access Policies
+    ELK Configuration
+    Beats in Use
+    Machines Being Monitored
+    How to Use the Ansible Build
 
 Description of the Topology
 
