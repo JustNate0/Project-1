@@ -48,6 +48,7 @@ Target Machines & Beats
 This ELK server is configured to monitor the following machines:
 -- Web-1 with the ip address of 10.0.0.9
 -- Web 2 with the ip address of 10.0.0.10
+
 I have installed Filebeat and Metricbeat on to these machines.
 These Beats allow us to collect the following information from each machine: -filebeat collects log data and shows them in the monitoring clusters. -metricbeat collects metrics and statistics and shows them in the output specified, for example Elasticsearch or Logstash.
 Using the Playbook
