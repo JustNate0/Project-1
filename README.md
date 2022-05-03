@@ -1,2 +1,2 @@
-# Project-1
-scripts from cyber class
+# Elk-Stack-Project
+These are the scripts that I had created for my first project.
